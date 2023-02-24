@@ -1,0 +1,45 @@
+{
+	"[prisma]": {
+		"editor.defaultFormatter": "Prisma.prisma"
+	},
+	"[javascript]": {
+		"editor.defaultFormatter": "vscode.typescript-language-features"
+	},
+	"[javascriptreact]": {
+		"editor.defaultFormatter": "vscode.typescript-language-features"
+	},
+	"[typescript]": {
+		"editor.defaultFormatter": "vscode.typescript-language-features"
+	},
+	"[typescriptreact]": {
+		"editor.defaultFormatter": "vscode.typescript-language-features"
+	},
+	"editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+	"editor.guides.bracketPairs": true,
+	"editor.linkedEditing": true,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.formatOnPaste": true,
+	"editor.wordWrap": "on",
+	"editor.foldingMaximumRegions": 1000,
+	"prettier.useTabs": true,
+	"prettier.vueIndentScriptAndStyle": true,
+	"typescript.format.insertSpaceAfterConstructor": true,
+	"typescript.format.semicolons": "remove",
+	"javascript.format.semicolons": "remove",
+	"javascript.format.insertSpaceAfterOpeningAndBeforeClosingJsxExpressionBraces": true,
+	"typescript.format.insertSpaceAfterOpeningAndBeforeClosingJsxExpressionBraces": true,
+	"typescript.surveys.enabled": false,
+	"editor.fontSize": 13,
+	"prettier.semi": false,
+	"editor.inlineSuggest.enabled": true,
+	"typescript.updateImportsOnFileMove.enabled": "prompt",
+	"javascript.updateImportsOnFileMove.enabled": "prompt",
+	"prettier.singleQuote": true,
+	"editor.formatOnSave": true,
+	"editor.formatOnSaveMode": "file",
+	"prettier.jsxSingleQuote": true,
+	"prettier.singleAttributePerLine": true,
+	"editor.detectIndentation": true,
+	"editor.tabSize": 2,
+	"prettier.useEditorConfig": true
+}
